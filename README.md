@@ -11,5 +11,7 @@ TODO:
 
 ---
 ## License & copyright
+
 © Qing Zheng
+
 Licensed under the [MIT License](LICENSE)
